@@ -1,0 +1,185 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'MAX10_CLK1_50'
+Slack : -1.474
+TNS   : -15.594
+
+Type  : Slow 1200mV 85C Model Setup 'zegar:inst3|inst1'
+Slack : -0.542
+TNS   : -0.542
+
+Type  : Slow 1200mV 85C Model Setup 'zegar:inst3|inst'
+Slack : -0.461
+TNS   : -0.461
+
+Type  : Slow 1200mV 85C Model Setup 'MultiPrescaler:inst|clk_100kHz'
+Slack : -0.405
+TNS   : -0.405
+
+Type  : Slow 1200mV 85C Model Setup 'zegar:inst3|inst2'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'zegar:inst3|inst2'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MAX10_CLK1_50'
+Slack : 0.427
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MultiPrescaler:inst|clk_100kHz'
+Slack : 0.489
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'zegar:inst3|inst'
+Slack : 0.532
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'zegar:inst3|inst1'
+Slack : 0.745
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : -3.000
+TNS   : -18.433
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MultiPrescaler:inst|clk_100kHz'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'zegar:inst3|inst'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'zegar:inst3|inst1'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'zegar:inst3|inst2'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Setup 'MAX10_CLK1_50'
+Slack : -1.263
+TNS   : -13.311
+
+Type  : Slow 1200mV 0C Model Setup 'zegar:inst3|inst1'
+Slack : -0.466
+TNS   : -0.466
+
+Type  : Slow 1200mV 0C Model Setup 'zegar:inst3|inst'
+Slack : -0.391
+TNS   : -0.391
+
+Type  : Slow 1200mV 0C Model Setup 'MultiPrescaler:inst|clk_100kHz'
+Slack : -0.318
+TNS   : -0.318
+
+Type  : Slow 1200mV 0C Model Setup 'zegar:inst3|inst2'
+Slack : 0.361
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'zegar:inst3|inst2'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MAX10_CLK1_50'
+Slack : 0.389
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MultiPrescaler:inst|clk_100kHz'
+Slack : 0.441
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'zegar:inst3|inst'
+Slack : 0.506
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'zegar:inst3|inst1'
+Slack : 0.713
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : -3.000
+TNS   : -18.433
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MultiPrescaler:inst|clk_100kHz'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'zegar:inst3|inst'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'zegar:inst3|inst1'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'zegar:inst3|inst2'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Fast 1200mV 0C Model Setup 'MAX10_CLK1_50'
+Slack : -0.013
+TNS   : -0.130
+
+Type  : Fast 1200mV 0C Model Setup 'zegar:inst3|inst1'
+Slack : 0.137
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MultiPrescaler:inst|clk_100kHz'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'zegar:inst3|inst'
+Slack : 0.163
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'zegar:inst3|inst2'
+Slack : 0.693
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'zegar:inst3|inst'
+Slack : 0.153
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'zegar:inst3|inst2'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MAX10_CLK1_50'
+Slack : 0.171
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MultiPrescaler:inst|clk_100kHz'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'zegar:inst3|inst1'
+Slack : 0.223
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : -3.000
+TNS   : -14.297
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MultiPrescaler:inst|clk_100kHz'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'zegar:inst3|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'zegar:inst3|inst1'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'zegar:inst3|inst2'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------
